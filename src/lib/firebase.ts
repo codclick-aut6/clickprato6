@@ -6,12 +6,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Configuração do Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyC0QPmAcpAM6CcVkA9fCCcE7ANtxgzuhkA",
-  authDomain: "cp-aut5.firebaseapp.com",
-  projectId: "cp-aut5",
-  storageBucket: "cp-aut5.firebasestorage.app",
-  messagingSenderId: "461174825823",
-  appId: "1:461174825823:web:241344ebe14aa7fcf7ccea"
+  apiKey: "AIzaSyB0BSql846hMmBa_WYiwpTdc5MDWEmDHP8",
+  authDomain: "fb-aut6.firebaseapp.com",
+  projectId: "fb-aut6",
+  storageBucket: "fb-aut6.firebasestorage.app",
+  messagingSenderId: "908504345671",
+  appId: "1:908504345671:web:d4d624f3c6a5c4612a5562"
 };
 // Inicializar o Firebase
 const app = initializeApp(firebaseConfig);
