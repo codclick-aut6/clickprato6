@@ -186,8 +186,8 @@ const Admin = () => {
               </h3>
             </div>
             <p className="text-yellow-700 mb-3 text-xs sm:text-sm leading-relaxed">
-              Parece que as coleções do Firebase estão vazias ou foram excluídas. 
-              Use o botão "Recriar Coleções Firebase" acima para restaurar todos os dados iniciais.
+              Seu cardápio ainda não possui produtos cadstrados. 
+              Comece adicionando seu primeiro produto clicando no botão "+ Novo Item"
             </p>
             <p className="text-yellow-600 text-xs leading-relaxed">
               Isso irá criar: categorias, itens do menu, variações e grupos de variações.
